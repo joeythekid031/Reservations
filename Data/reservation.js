@@ -1,4 +1,4 @@
-const reservation = [
+const tableData = [
     {
       routeName: "andrew",
       name: "Andrew",
@@ -7,3 +7,6 @@ const reservation = [
       phoneNumber: "555-555-5555"
     },
   ];
+
+  module.exports = tableData;
+  
