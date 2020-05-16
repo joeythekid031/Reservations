@@ -1,4 +1,4 @@
-const waiting = [
+const waitingData = [
     {
         routeName: "jacob",
         name: "Jacob",
@@ -8,3 +8,4 @@ const waiting = [
       },
   ];
 
+  module.exports = waitingData;
